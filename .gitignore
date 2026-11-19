@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# База законов и исходные PDF с adilet.zan.kz не публикуем: собираются локально (см. README)
+data/

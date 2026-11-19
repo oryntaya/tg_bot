@@ -1,0 +1,5 @@
+aiogram>=3.13,<4
+python-dotenv>=1.0
+babel>=2.14
+tzdata
+pypdf>=4.0  # нужен только для сборки базы законов: python laws.py
